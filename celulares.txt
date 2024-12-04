@@ -1,0 +1,6 @@
+moto g22;motorola;128;400;650
+a10;samsung;54;450;600
+iphone 13;apple;128;2580;3100
+iphone 13 pro;apple;256;3400;4200
+note 13;redmi;128;870;1200
+redmi;c65;128;730;999
