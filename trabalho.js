@@ -1,6 +1,6 @@
 const prompt = require("prompt-sync")();
 const fs = require("fs");
-
+teste git
 const modelos = [];
 const marcas = [];
 const memorias = [];
